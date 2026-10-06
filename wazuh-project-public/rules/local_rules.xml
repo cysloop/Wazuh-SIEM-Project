@@ -1,0 +1,7 @@
+<group name="local,syslog,">
+  <rule id="100001" level="10">
+    <decoded_as>json</decoded_as>
+    <description>Custom Alert: Suspicious Activity Detected.</description>
+    <options>alert_by_email</options>
+  </rule>
+</group>

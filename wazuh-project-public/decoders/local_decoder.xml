@@ -1,0 +1,3 @@
+<decoder name="custom-json-decoder">
+  <prematch>CUSTOM_LOG</prematch>
+</decoder>
