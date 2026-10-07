@@ -1,4 +1,4 @@
-# 🛡️ Wazuh SIEM Home Lab — Detection & Automated Response
+# 🛡️ Wazuh SIEM Project  — Detection Engineering & Automated Response
 
 A hands-on **SOC / Blue Team** lab built on **Wazuh**, featuring custom detection rules, custom decoders, file integrity monitoring (FIM), VirusTotal threat-intelligence enrichment, and **Active Response** that isolates a host **automatically or manually** from the Wazuh dashboard.
 
