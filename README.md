@@ -219,5 +219,5 @@ This project is for **educational and lab purposes only**. Run attack simulation
 
 ## 👤 Author
 
-**cysloop** — Cybersecurity / SOC   
+**Mohammed Fadhl Al-Moshtaher** — Cybersecurity / SOC   
 🔗 GitHub: [@cysloop](https://github.com/cysloop)
